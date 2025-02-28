@@ -7,6 +7,8 @@ public class Lab006P_IntegerDataType {
         //variable name =age
         // variable values =65
         int age= 65;
+        age=age+1;
+        age=89;
         System.out.println(age);
     }
 
